@@ -4,7 +4,7 @@ This project is a simple implementation of the classic snake game using Python 3
 
 ## Prerequisites
 
-- **Python 3.11**: This game has been tested and confirmed to run on Python 3.11 on Windows. It may not work as intended on later versions of Python or other operating systems.
+- **Python 3.11**: On Windows, this game has been tested and confirmed to run only on Python 3.11 or previous versions. It may not work as intended on later versions of Python.
 
 ## Installation
 
