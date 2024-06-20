@@ -2,6 +2,8 @@
 
 This project is a simple implementation of the classic snake game using Python 3.11 and the curses library. The game runs in the terminal and features a snake that grows when it eats fruits, and the game ends if the snake hits the border or itself.
 
+Made without using the pygame library
+
 ## Prerequisites
 
 - **Python 3.11**: On Windows, this game has been tested and confirmed to run only on Python 3.11 or previous versions. It may not work as intended on later versions of Python.
